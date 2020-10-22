@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Tauan Gabriel",
+      "cpf": "12345678901",
+      "sexo": "masculino",
+      "login": "tauan",
+      "senha": "123456",
+      "token": "a1z2s4a5a6w6"
+    },
+    {
+      "nome": "Marcos Alexandre",
+      "cpf": "12345678901",
+      "sexo": "masculino",
+      "login": "alexandre",
+      "senha": "123456",
+      "token": "sasa123d2323"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/tauan/agro/dev/src/components/Items/images.jpg",
+      "title": "Abacate"
+    },
+    {
+      "id": 2,
+      "image": "https://d26lpennugtm8s.cloudfront.net/stores/746/397/products/laranja_ceu1-53852a66aa8037bd7415221636647098-1024-1024.jpg",
+      "title": "Laranja"
+    },
+    {
+      "id": 3,
+      "image": "https://static3.tcdn.com.br/img/img_prod/350075/muda_de_uva_sem_sementes_1m_feita_de_enxerto_6043_1_20190521161351.jpg",
+      "title": "Uva"
+    }
+  ]
+}
